@@ -1,0 +1,7 @@
+model knn loss is: 0.0166071428571
+model lr loss is: 0.00553571428571
+model gbdt loss is: 0.169285714286
+model svm loss is: 0.00107142857143
+rf model accuracy is 0.0301785714286
+
+
