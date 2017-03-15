@@ -1,16 +1,15 @@
-# The source code of my IJCAI-2017 Competition.
+# The source files of my IJCAI-2017 Competition.
 
 ## Dataset
 *Because user_pay.txt, user_view.txt and extra_user_view.txt are bigger than 100MB, 
-it can't be pushed onto github, just look at the **get data set** part.*
+it can't be pushed onto github, just look at the **Get dataset** part.*
 * __shop_info.txt__: Shop's information.
 * __user_pay.txt__: User's pay history.
 * __user_view.txt__: User's view history.
 * __extra_user_view.txt__:A padding to the original user's view History.
 
-#### get data set:
-* [user_pay.txt, and user_view.txt](http://yunpan.taobao.com/s/Bq35eEB4ew?spm=5176.100068.555.4.RXrt1K)
-* [extra_user_view.txt](https://tianchi.aliyun.com/competition/information.htm?raceId=231591)
+## Get dataset:
+* [user_pay.txt, and user_view.txt and extra_user_view.txt](https://tianchi.aliyun.com/competition/information.htm?raceId=231591)
 
 ## Task
 According to Users' history data and shops' information, 
